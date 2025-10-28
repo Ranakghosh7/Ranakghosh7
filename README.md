@@ -12,7 +12,7 @@
 - 🔭 Currently exploring **Full-Stack Development** with `Next.js`, `TypeScript`, and `Node.js`  
 - 🌱 Learning **backend architecture**, **API design**, and **AI-driven web apps**  
 - 💡 Passionate about **open-source**, clean code, and scalable design  
-- 🤝 Open to collaborating on **innovative web or AI projects**  
+- 🤝 Open to collaborating on **innovative web & AI projects**  
 - ⚡ Fun fact: *I believe great code reads like poetry — elegant, expressive, and precise.*
 
 ---
