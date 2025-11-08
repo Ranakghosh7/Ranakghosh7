@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+ 
 ### 🧩 About Me  
 - 🔭 Currently exploring **Full-Stack Development** with `Next.js`, `TypeScript`, and `Node.js`  
 - 🌱 Learning **backend architecture**, **API design**, and **AI-driven web apps**  
