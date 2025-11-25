@@ -39,22 +39,8 @@
 ---
 
 
-### 📈 GitHub Highlights  
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ranakghosh7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-    height="180em" 
-  />
-
-  <!-- Top Languages (HTML Hidden + Fake Weighting Allowed) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranakghosh7&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=10" 
-    height="180em" 
-  />
-</p>
-
+### 📈 GitHub Highlights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ranakghosh7&show_icons=true&theme=tokyonight&hide_border=true" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranakghosh7&layout=compact&theme=tokyonight&hide_border=true" height="180em" /> </p>
 ### 🌐 Connect with Me  
 
 <p align="center">
