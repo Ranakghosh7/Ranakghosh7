@@ -52,6 +52,16 @@
 
 ----------
 
+# NeuroFlow.js
+
+![GitHub last commit](https://img.shields.io/github/last-commit/YOURNAME/NeuroFlow.js)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOURNAME/NeuroFlow.js)
+![GitHub license](https://img.shields.io/github/license/YOURNAME/NeuroFlow.js)
+![Node.js](https://img.shields.io/badge/Node.js-18-green)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-ML-blue)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+
+
 <p align="center">
   <i>“The best way to predict the future is to build it!!” — Alan Kay</i>  
 </p>
