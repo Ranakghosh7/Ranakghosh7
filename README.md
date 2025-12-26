@@ -6,7 +6,7 @@
   <i>I turn ideas into code and code into impact.</i>
 </p>
 
----
+----
  
 ### 🧩 About Me  
 - 🔭 Currently exploring **Full-Stack Development** with `Next.js`, `TypeScript`, and `Node.js`  
